@@ -7,9 +7,9 @@ SpotiPlayer was a project I initially embarked on back in September of 2019, and
 
 ## How can I get it?
 
-You can download releases of SpotiPlayer Rewrite from the Releases Tab, or clone the repository into your Rainmeter folder through GitHub Desktop.
+You can download releases of SpotiPlayer Rewrite from the [Releases Tab](https://github.com/CyberGen49/SpotiPlayer-Rewrite/releases), or pull the repository into your Rainmeter folder through [GitHub Desktop](https://desktop.github.com/).
 
-Note that cloning the repo directly could lead to unforeseen consequences due to the fact that you're downloading the most current developmental version of the skin, with every bug I've yet to fix.
+Note that pulling the repo directly could lead to unforeseen consequences due to the fact that you're downloading the most current developmental version of the skin, with every bug I've yet to fix.
 
 ## More Info
 
