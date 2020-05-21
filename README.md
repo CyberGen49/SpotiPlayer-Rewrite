@@ -3,7 +3,7 @@
 
 ## What is it?
 
-SpotiPlayer was a project I initially embarked on back in September of 2019, and it grew to be my most popular creation. I give it a lot of updates in February of 2020, releasing it as version 2.0, and haven't touched it since. I've gained a bunch of new knowledge, so I figured it's time to rebuild SpotiPlayer from the ground up, with optimization and usability in mind. 
+SpotiPlayer was a project I initially embarked on back in September of 2019, and it grew to be my most popular creation. I gave it a lot of updates in February of 2020, releasing it as version 2.0, and haven't touched it since. I've gained a bunch of new knowledge, so I figured it's time to rebuild SpotiPlayer from the ground up, with optimization and usability in mind. 
 
 ## How can I get it?
 
